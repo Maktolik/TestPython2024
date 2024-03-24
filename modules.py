@@ -3,18 +3,8 @@ import sys
 from array import array
 
 
-
-
-
-
-
-
-
-
-
-
-# webbrowser
-# webbrowser.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+webbrowser
+webbrowser.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 
 
 # sys
